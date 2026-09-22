@@ -2,7 +2,7 @@
 
 A browser-based QR Code Generator & Designer — create, customize, preview, and download QR codes with no backend required.
 
-🔗 **Live Demo:** [Add your Vercel/Netlify link here]
+🔗 **Live Demo:** https://qrstudiocreate.vercel.app
 
 ---
 
@@ -187,11 +187,7 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under GNU
+___
 
----
-
-## 🙌 Acknowledgements
-
-- QR code generation powered by *(name your chosen library)*
-- Built and deployed with [Vercel](https://vercel.com)
+Adithya Kintali @2026
