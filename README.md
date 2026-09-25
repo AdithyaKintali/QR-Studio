@@ -34,11 +34,19 @@ QR Studio lets users generate QR codes from multiple types of input (URLs, text,
 
 | Layer | Technology |
 |---|---|
-| Framework | React / Vue.js / Angular *(choose one)* |
-| Languages | HTML, CSS, JavaScript / TypeScript |
-| QR Generation | *(e.g., qrcode.react, qrcode.js, or similar)* |
-| Storage | Browser `localStorage` |
-| Deployment | Vercel / Netlify |
+| Frontend Framework | React 19.1 |
+| Build Tool | Vite 6.3 |
+| Language | JavaScript / JSX |
+| QR Rendering & Styling | `qr-code-styling` 1.9.2 |
+| QR Generation / Encoding | `qrcode-generator` 2.0.4 |
+| Icons | `lucide-react` 0.468.0 |
+| Fonts | DM Sans Variable, Manrope Variable |
+| Styling | CSS |
+| Client-side Storage | Browser `localStorage` |
+| Testing | Playwright |
+| QR Decode Verification (Tests) | `jsqr` |
+| Image Processing (Tests) | `pngjs` |
+| Deployment | Vercel |
 
 > Update this table with the specific libraries and framework you land on.
 
